@@ -1,4 +1,4 @@
-<h1 align= center>CountdownTimer-TeLeTiPs</h1>
+<h1 align= center>Novoos Countdown Timer</h1>
 <h3 align = center>The very first powerful Telegram bot to countdown to your important events in any group chat. Live countdown timer.
 <br>(days : hours : minutes : seconds)</h3>
 <p align="center">
